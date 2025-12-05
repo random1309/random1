@@ -34,8 +34,8 @@ Existing AI models—often trained on controlled datasets—struggle to generali
 
 To address this, we:
 
-- Introduce a **real-field dense crop dataset** that captures practical deployment scenarios
-- Propose **SAMConvFormer**, which **synergizes the Segment Anything Model (SAM)** with a **Joint Convolutional Transformer** for precise segmentation
+- Introduce a **real-field dense crop dataset** that captures practical deployment scenarios  
+- Propose **SAMConvFormer**, which **synergizes the Segment Anything Model (SAM)** with a **Joint Convolutional Transformer** for precise segmentation  
 - Integrate a **Large Language Model (LLM)** to build an **end-to-end pipeline** for:
   - Yield estimation  
   - Ripeness and quality assessment  
