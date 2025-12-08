@@ -42,7 +42,12 @@ This repository will host the **official implementation** of **SAMConvFormer+LLM
 > - **77.03% Dice Coefficient**  
 >  
 > These represent relative improvements of **31%, 18.79%, and 11.56%** over the baseline model, confirming the robustness and precision of our approach for densely fruited crop detection.
-
+> 
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0168169925012980-gr1_lrg.jpg"
+       width="950"
+       alt="Fig. 1 – SAMConvFormer proposed framework and performance gain">
+</p>
 ---
 
 ## 🌱 Key Contributions
